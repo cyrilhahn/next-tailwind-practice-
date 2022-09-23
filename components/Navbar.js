@@ -36,7 +36,7 @@ const Navbar = () => {
             <Link href="/">Home</Link>
           </li>
           <li className="p-4">
-            <Link href="/#gallery">Gallery</Link>
+            <Link href="/#gallery" scroll={false} >Gallery</Link>
           </li>
           <li className="p-4">
             <Link href="/shop">Shop</Link>
