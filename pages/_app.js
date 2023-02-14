@@ -1,3 +1,4 @@
+import Script from 'next/script'
 import Navbar from '../components/Navbar'
 import '../styles/globals.css'
 
